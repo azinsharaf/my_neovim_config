@@ -9,7 +9,6 @@ opt.smartindent = true
 opt.wrap = false
 opt.linebreak = true -- linebreak soft wrap at words
 
-
 -- Search
 opt.incsearch = true
 opt.ignorecase = true
@@ -20,13 +19,12 @@ opt.hlsearch = false
 opt.number = true
 opt.relativenumber = true
 opt.termguicolors = true
-opt.colorcolumn = '80'
+opt.colorcolumn = "80"
 opt.signcolumn = "yes"
 opt.cmdheight = 1
 opt.scrolloff = 10
 opt.completeopt = "menuone,noinsert,noselect"
 opt.cursorline = true -- highlight current line
-
 
 -- Behavior
 opt.hidden = true
